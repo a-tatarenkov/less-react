@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/less-react/static/css/main.8cf8deea.css",
+    "main.js": "/less-react/static/js/main.3913b833.js",
+    "static/media/SVG_Logo.svg.png": "/less-react/static/media/SVG_Logo.svg.0ad9ef6e7a7c798f27c8.png",
+    "static/media/1065621053_w640_h640_vafelnaya-kartinka-lyubov.webp": "/less-react/static/media/1065621053_w640_h640_vafelnaya-kartinka-lyubov.a4d91d5f3e2027514a7f.webp",
+    "index.html": "/less-react/index.html",
+    "main.8cf8deea.css.map": "/less-react/static/css/main.8cf8deea.css.map",
+    "main.3913b833.js.map": "/less-react/static/js/main.3913b833.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cf8deea.css",
+    "static/js/main.3913b833.js"
+  ]
+}
